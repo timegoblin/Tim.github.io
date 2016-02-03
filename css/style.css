@@ -8,6 +8,16 @@
 	height: 100%;
 	width: 100%;
 }
+.onPic{
+	height: 100%;
+	width: 120%;
+	opacity: 0;
+	margin-left: -15%;
+	background-color: #fff;
+}
+.onPic:hover{
+	opacity: 0.3;
+}
 /*--------------------
 -------mainInfo-------
 --------------------*/
@@ -23,6 +33,9 @@
 	height: 15%;
 	width:15%;
 	border-radius: 100px 100px 100px 100px;
+}
+.myPhoto .image:hover{
+		opacity: 0.4;
 }
 .info .text{
 	margin-left: 100px;
@@ -40,10 +53,14 @@
 	margin-right: auto;
 }
 .info .fa-linkedin-square{
-	margin-left: auto;
+	margin-left: 30%;
 }
 .info .social{
 	border-top: 1px solid gray;
 	margin-top: 100px;
 	padding-top: 20px;
+}
+.info a{
+	color: inherit;
+	text-decoration:none; 
 }
