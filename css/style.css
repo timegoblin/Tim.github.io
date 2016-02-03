@@ -1,0 +1,49 @@
+
+
+
+/*--------------------
+-------mainPicture-------
+--------------------*/
+.left{
+	height: 100%;
+	width: 100%;
+}
+/*--------------------
+-------mainInfo-------
+--------------------*/
+
+#main .info{
+	padding-top: :120px;
+	padding-bottom: 120px;
+	height: 100%;
+}
+.myPhoto .image {
+	margin-top: 100px;
+	margin-left: 100px; 
+	height: 15%;
+	width:15%;
+	border-radius: 100px 100px 100px 100px;
+}
+.info .text{
+	margin-left: 100px;
+	margin-right: 300px;
+}
+.info h1{
+	margin-top: 50px;
+}
+.info p{
+	color: gray;
+	font-size: 18px;
+	margin-top: 40px;
+}
+.info .fa-facebook-square{
+	margin-right: auto;
+}
+.info .fa-linkedin-square{
+	margin-left: 40%;
+}
+.info .social{
+	border-top: 1px solid gray;
+	margin-top: 100px;
+	padding-top: 20px;
+}
