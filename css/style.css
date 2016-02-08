@@ -35,11 +35,10 @@
 	border-radius: 100px 100px 100px 100px;
 }
 .myPhoto .image:hover{
-		opacity: 0.4;
+	opacity: 0.4;
 }
 .info .text{
 	margin-left: 100px;
-	margin-right: 300px;
 }
 .info h1{
 	margin-top: 50px;
@@ -53,11 +52,13 @@
 	margin-right: auto;
 }
 .info .fa-linkedin-square{
-	margin-left: 30%;
+	margin-left: 10%;
 }
 .info .social{
-	border-top: 1px solid gray;
-	margin-top: 100px;
+	width:300px;
+	position: fixed;
+    bottom: 20px;
+    border-top: 1px solid gray;
 	padding-top: 20px;
 }
 .info a{
