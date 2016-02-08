@@ -56,8 +56,6 @@
 }
 .info .social{
 	width:300px;
-	position: fixed;
-    bottom: 20px;
     border-top: 1px solid gray;
 	padding-top: 20px;
 }
